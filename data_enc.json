@@ -1,1 +1,16 @@
+{
+  "Version": 1,
+  "Rules": [
+    {
+      "Name": "sniper_DB",
+      "Search": "12 23 34 54 f3 c3",
+      "Replace": "23 f4 g6 y6 76"
+    },
+    {
+      "Name": "sneffe_DB",
+      "Search": "12 23 34 54 33 c3",
+      "Replace": "23 f4 33 y6 76"
+    }
+  ]
+}
 
